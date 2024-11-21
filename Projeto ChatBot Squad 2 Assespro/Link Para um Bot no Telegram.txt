@@ -1,1 +1,3 @@
-https://t.me/AssesproBot
+Link para o chatbot: https://t.me/AssesproBot
+
+Link para o fluxo do N8N: https://sindeseidf.app.n8n.cloud/projects/3FdhMah166YsiZ6p/workflows
